@@ -15,7 +15,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-`timescale 1ns/10ps
+`timescale 1ns/1ns
 
 interface axi4lite_m_if(input bit clk);
   // Master write address channel

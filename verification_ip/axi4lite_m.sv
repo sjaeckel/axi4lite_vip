@@ -14,7 +14,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
-`timescale 1ns/10ps
+`timescale 1ns/1ns
 
 package AXI4LITE_M;
 typedef bit [7:0]    bit8;
